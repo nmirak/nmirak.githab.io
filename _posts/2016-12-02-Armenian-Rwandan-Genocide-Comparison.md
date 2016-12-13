@@ -3,6 +3,7 @@ layout: post
 title: "Armenian and Rwandan Genocides in Comparison: Employing Structural Approach to Explain Some of the Causes"
 date: 2016-12-02 23:32:27 +0400
 categories: political
+permalink: /Armenian-Rwandan-Genocide-Comparison/
 ---
 Genocides are crimes against humanity that are still happening in the world, where all kinds of measures—condemnation in international tribunals, military interventions, international coverage by media—are used in order to prevent them, but the practice shows that these measures do not always succeed. Another way of prevention is the study of genocides by scholars. The purpose of genocide studies is not only merely limited to the adding knowledge with the study of another social phenomenon, but to help to prevent them by understanding their nature as it has been already made clear. For this reason, a number of researchers concentrated on the study of the causes of genocides. In this essay, an attempt will be made to review some of the causes of genocides from the perspective of comparative analysis. Moreover, a methodological issue is addressed and critically analyzed as well as a hypothetical solution is proposed and applied to the comparison of the Armenian and Rwandan genocides.
 
