@@ -41,15 +41,22 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="20.85965"
-     inkscape:cx="3.8431597"
-     inkscape:cy="7.5746094"
+     inkscape:cx="5.7470888"
+     inkscape:cy="8.2884779"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <path
-     d="m 1.7727264,1.0000048 c -0.4268253,0 -0.7727305,0.3458963 -0.7727305,0.7727042 l 0,12.454574 c 0,0.426703 0.3458527,0.772722 0.7727305,0.772722 l 6.7050938,0 0,-5.4215738 -1.8243847,0 0,-2.1128552 1.8243847,0 0,-1.5581747 c 0,-1.808241 1.1044169,-2.7929578 2.7175418,-2.7929578 0.772695,0 1.436838,0.057575 1.630336,0.0833 l 0,1.8897299 -1.118828,5.337e-4 c -0.877215,0 -1.047105,0.4169028 -1.047105,1.0286331 l 0,1.3489445 2.092302,0 -0.272467,2.1128552 -1.819835,0 0,5.4215651 3.567622,0 c 0.426651,0 0.772617,-0.345958 0.772617,-0.772713 l 0,-12.4545744 c 0,-0.4268077 -0.345914,-0.7727129 -0.772617,-0.7727129 l -12.4546606,0 z"
-     id="Blue_1_"
-     style="fill:#828282;fill-opacity:1"
-     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16.33333397px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#828282;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="8.0022783"
+     y="13.833333"
+     id="text4133"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       id="tspan4135"
+       x="8.0022783"
+       y="13.833333"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#828282;fill-opacity:1;"></tspan></text>
 </svg>
