@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Mirakyan’s Writings
 author: Norayr Mirakyan
-email: public-affairs@t-online.de
+email: mirakyan@msn.com
 description: > # this means to ignore newlines until "baseurl:"
   Graduate student studying Political Science and International Relations at the American University of Armenia
 baseurl: "" # the subpath of your site, e.g. /blog
