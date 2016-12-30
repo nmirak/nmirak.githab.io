@@ -4,7 +4,7 @@ title: "Armenian and Rwandan Genocides in Comparison: Employing Structural Appro
 date: 2016-12-02 23:32:27 +0400
 author: Norayr Mirakyan
 categories:
-  - Political Science,
+  - Political Science
   - Comparative Politics
 permalink: /post/2016/12/02/Armenian-Rwandan-Genocide-Comparison/
 ---
