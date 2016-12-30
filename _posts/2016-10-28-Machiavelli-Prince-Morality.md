@@ -2,6 +2,7 @@
 layout: post
 title: Morality of Machiavelli’s “The Prince”
 date: 2016-10-28 20:30:54 +0400
+author: Norayr Mirakyan
 categories: political
 permalink: /post/2016/10/28/Machiavelli-Prince-Morality/
 ---
