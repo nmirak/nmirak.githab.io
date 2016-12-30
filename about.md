@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div itemscope itemtype="http://schema.org/Person">
-My name is <span itemprop="name">Norayr Mirakyan</span>. I am a graduate student studying Political Science and International Relations at the American University of Armenia. Here you may find some of my writings and working papers -- probably political in their kind most of the time. Occasionally I may post other materials as well, as I enjoy other activities, too. These include but are not limited to foreign languages, drawing, graphic design and scripting (computers).
+My name is <span itemprop="name">Norayr Mirakyan</span>. I am a graduate student studying Political Science and International Relations at the <span itemprop="affiliation">American University of Armenia</span>. Here you may find some of my writings and working papers -- probably political in their kind most of the time. Occasionally I may post other materials as well, as I enjoy other activities, too. These include but are not limited to foreign languages, drawing, graphic design and scripting (computers).
 
 For contacting me, you may use this e-mail address: <a href="mailto:mirakyan@msn.com" itemprop="email">mirakyan@msn.com</a>.
 
