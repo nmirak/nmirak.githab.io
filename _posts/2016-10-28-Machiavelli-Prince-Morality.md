@@ -3,7 +3,7 @@ layout: post
 title: Morality of Machiavelli’s “The Prince”
 date: 2016-10-28 20:30:54 +0400
 author: Norayr Mirakyan
-categories: political philosophy
+categories: Political philosophy
 permalink: /post/2016/10/28/Machiavelli-Prince-Morality/
 ---
 The morality of Machiavelli’s book has been discussed for quite long time already. There are various views of his book. In this essay, I argue that Machiavelli’s *The Prince* is an immoral book. For this purpose, we will look into three different aspects of his work. We will examine how some scholars argued the amoral view of Machiavelli's book, how Machiavelli advocated against good qualities and suggested to make use of immoral courses, and what are the shortcomings of the justification of national greatness for this immoral courses⁠. The discussion of these questions will prove the main claim of this essay. Furthermore, it will reveal Machiavelli’s hidden intentions of restoring Florentine republic.
