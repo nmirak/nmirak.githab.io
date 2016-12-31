@@ -21,8 +21,13 @@ To sum up, we may claim that presidentialization may be regarded as an act in fa
 ### References
 
 Eisenhardt, K. M. (1989). Agency Theory: An Assessment and Review. *Academy of Management Journal*, 14(1), 57–74.
+
 Muller, W. C. (2014). Governments and Bureaucracies. In D. Caramani (Ed.), *Comparative Politics* (3rd ed., pp. 267–283). OUP Oxford.
+
 Poguntke, T., & Webb, P. (2005). *The Presidentialization of Politics*. Oxford University Press. https://doi.org/10.1093/0199252017.001.0001
+
 Presidential Power. (2016, September 26). Azerbaijan – A New Constitutional Reform: Towards a Monarchical Presidency? [Online Article]. Retrieved December 15, 2016, from http://presidential-power.com/?p=5362
+
 Venice Commission. Opinion on the Draft Amendments to the Constitution of the Republic of Azerbaijan, Pub. L. No. 518 (2009). Strasbourg. Retrieved from http://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2009)010-e
+
 Venice Commission. Preliminary Opinion on the Draft Modifications to the Constitution Submitted to the Referendum of 26 September 2016, Pub. L. No. 864 (2016). Strasbourg. Retrieved from http://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-PI(2016)010-e
